@@ -1,7 +1,7 @@
 {
-  "name": "react-castles",
+  "name": "sandwich-restaurant",
   "version": "1.0.0",
-  "description": "When visiting one of Japan's famous castles, you can apply a unique rubber stamp to your notebook. Use this application to prepare for a trip, read and write reviews, and learn fun facts on your journey to collect all 100 stamps.",
+  "description": "",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tcunningham203/react-castles.git"
+    "url": "git+https://github.com/tcunningham203/sandwich-restaurant.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tcunningham203/react-castles/issues"
+    "url": "https://github.com/tcunningham203/sandwich-restaurant/issues"
   },
-  "homepage": "https://github.com/tcunningham203/react-castles#readme",
+  "homepage": "https://github.com/tcunningham203/sandwich-restaurant#readme",
   "dependencies": {
     "concurrently": "^8.2.1"
   }
